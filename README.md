@@ -1,1 +1,1 @@
-# git-django
+# github-django-actions
